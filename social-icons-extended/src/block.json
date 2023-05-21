@@ -1,0 +1,12 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 2,
+  "name": "social-icons-extended/social-icons-extended",
+  "version": "0.1.0",
+  "title": "Social Icons Extended",
+  "category": "widget",
+  "description": "Extending social icons",
+  "editorScript": "file:./index.tsx",
+  "editorStyle": "file:./index.css",
+  "style": "file:./style-index.css"
+}

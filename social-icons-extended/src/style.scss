@@ -1,0 +1,6 @@
+$trip-advisor-bg-color: #34e0a1;
+
+.wp-block-social-links:not(.is-style-logos-only) .wp-social-link-tripadvisor {
+  background-color: $trip-advisor-bg-color;
+  color: black;
+}
