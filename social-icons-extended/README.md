@@ -1,5 +1,7 @@
 # Social Icons Extended
 
+[Back to main](../README.md)
+
 This plugins extends WordPress's "social icons" block to add additional icons:
 
 - TripAdvisor
